@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋</h1>
 
 - 🎓️ I graduated from computer engineering.
 - 🌱 I am interested in test automation and software testing.
