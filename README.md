@@ -15,3 +15,4 @@
 [![Junit5](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)](link)
 [![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](link)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremnurk&theme=tokyonight&langs_count=10&layout=compact)
